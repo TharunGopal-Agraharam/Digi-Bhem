@@ -28,7 +28,15 @@ The CIFAR dataset is a collection of images commonly used for training machine l
    ```bash
    git clone https://github.com/your-username/cifar-image-classification.git
    cd cifar-image-classification
-   
+
+2. Install the dependencies:
+
+pip install -r requirements.txt
+
+
+3. Run the notebook: Open CIFAR.ipynb in Jupyter Notebook or JupyterLab and run the cells sequentially.
+
+
 # Model Summary 
 
 Model: "sequential"
