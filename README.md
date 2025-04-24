@@ -69,3 +69,7 @@ Model: "sequential"
  Trainable params: 706,570 (2.70 MB)
  Non-trainable params: 0 (0.00 B)
  Optimizer params: 2 (12.00 B)
+
+# Results
+  - Model trained on CIFAR dataset
+  - Achieved high accuracy
