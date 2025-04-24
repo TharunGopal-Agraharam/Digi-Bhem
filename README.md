@@ -26,7 +26,7 @@ The CIFAR dataset is a collection of images commonly used for training machine l
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/tharungopalagraharam/cifar-image-classification.git
+   git clone https://github.com/TharunGopal-Agraharam/cifar-image-classification.git
    cd cifar-image-classification
 
 2. Install the dependencies:
